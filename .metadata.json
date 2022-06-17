@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ifaTools",
+    "oncran": true
+  },
+  {
+    "package": "pcFactorStan",
+    "oncran": true
+  },
+  {
+    "package": "rpf",
+    "oncran": true
+  }
+]
