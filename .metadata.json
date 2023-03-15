@@ -1,10 +1,10 @@
 [
   {
-    "package": "ifaTools",
+    "package": "pcFactorStan",
     "oncran": true
   },
   {
-    "package": "pcFactorStan",
+    "package": "ifaTools",
     "oncran": true
   },
   {
