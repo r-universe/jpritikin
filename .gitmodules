@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ifaTools"]
 	path = ifaTools
 	url = https://github.com/jpritikin/ifatools
-	shallow = true
-	registered = true
 [submodule "pcFactorStan"]
 	path = pcFactorStan
 	url = https://github.com/jpritikin/pcfactorstan
-	shallow = true
-	registered = true
 [submodule "rpf"]
 	path = rpf
 	url = https://github.com/jpritikin/rpf
-	shallow = true
-	registered = true
